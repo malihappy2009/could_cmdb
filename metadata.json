@@ -1,0 +1,5 @@
+{
+  "name": "MultiCloud-CMDB",
+  "description": "A unified CMDB system integrating Alibaba Cloud and Volcengine resources via APIs.",
+  "requestFramePermissions": []
+}
